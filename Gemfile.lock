@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    excon (0.16.2)
+    its-it (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  excon
+  its-it
